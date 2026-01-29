@@ -1,10 +1,10 @@
-import Counter from "./counter"
+import SearchFruits from "./debounceExample/SearchFruits"
 
 function App() {
 
   return (
     <>
-      <Counter />
+    <SearchFruits />
     </>
   )
 }
